@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(powershell -ExecutionPolicy ByPass -c \"irm https://astral.sh/uv/install.ps1 | iex\")",
+      "PowerShell($env:PATH = \"$env:USERPROFILE\\\\.local\\\\bin;$env:PATH\"; uv --version)"
+    ]
+  }
+}
