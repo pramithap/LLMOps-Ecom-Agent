@@ -1,0 +1,36 @@
+Metadata-Version: 2.4
+Name: ecomm-prod-assistant
+Version: 0.2.0
+Summary: Add your description here
+Author: Jagraj_Singh
+License: OpenSource
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: beautifulsoup4==4.13.5
+Requires-Dist: ddgs==9.6.0
+Requires-Dist: fastapi==0.116.1
+Requires-Dist: html5lib==1.1
+Requires-Dist: jinja2==3.1.6
+Requires-Dist: langchain==0.3.27
+Requires-Dist: langchain-astradb==0.6.1
+Requires-Dist: langchain-core==0.3.75
+Requires-Dist: langchain-google-genai==2.1.8
+Requires-Dist: langchain-groq==0.3.6
+Requires-Dist: langchain-mcp-adapters==0.1.10
+Requires-Dist: langchain-openai==0.3.32
+Requires-Dist: langgraph==0.6.7
+Requires-Dist: lxml==6.0.1
+Requires-Dist: mcp==1.14.0
+Requires-Dist: pandas==2.3.3
+Requires-Dist: python-dotenv==1.1.1
+Requires-Dist: python-multipart==0.0.20
+Requires-Dist: pyyaml==6.0.3
+Requires-Dist: ragas==0.3.4
+Requires-Dist: selenium==4.35.0
+Requires-Dist: setuptools>=82.0.0
+Requires-Dist: streamlit==1.49.1
+Requires-Dist: structlog==25.4.0
+Requires-Dist: undetected-chromedriver==3.5.5
+Requires-Dist: uvicorn==0.35.0
+
+AGENTS - BATCH 1

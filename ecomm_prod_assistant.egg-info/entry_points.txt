@@ -1,0 +1,2 @@
+[console_scripts]
+ecomm-assistant = ecomm_prod_assistant.cli:main
